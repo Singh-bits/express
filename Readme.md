@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+tanvi singh
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
